@@ -1,0 +1,8 @@
+Modelo,Acurácia (média),F1-macro (média),F1-macro (desvio)
+MLP (rede neural),0.987,0.987,0.004
+Regressão Logística,0.987,0.987,0.005
+XGBoost,0.924,0.925,0.005
+Random Forest,0.902,0.902,0.013
+k-NN (k=15),0.891,0.892,0.006
+Árvore de Decisão,0.768,0.772,0.008
+Dummy (classe majoritária),0.333,0.167,0.0

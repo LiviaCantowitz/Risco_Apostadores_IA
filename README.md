@@ -46,7 +46,7 @@ streamlit run app.py
 
 ## Artigo e vídeo
 - Artigo final: `Artigo_Final.pdf` (neste repositório)
-- Vídeo de apresentação: *(link do YouTube)*
+- Vídeo de apresentação: https://youtu.be/EnhBmQsgl8k
 
 ## Limitações
 O dataset é simulado e o perfil de risco vem de uma regra definida no projeto, e não de um diagnóstico clínico (ex.: PGSI). O protótipo é acadêmico e não deve ser usado como diagnóstico.
